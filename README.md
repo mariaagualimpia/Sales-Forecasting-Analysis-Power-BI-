@@ -67,9 +67,9 @@ The dashboard was built with Power BI, using a combination of time series foreca
 
 | Folder | Contents |
 |--------|----------|
-| `/dashboard/` | Power BI `.pbix` file |
-| `/reports/` | Full PDF report of findings |
-| `/images/` | Screenshot(s) of dashboard |
+| `/Dashboard/` | Power BI `.pbix` file |
+| `/Report/` | Full PDF report of findings |
+| `/Images/` | Screenshots of dashboard |
 
 ---
 
